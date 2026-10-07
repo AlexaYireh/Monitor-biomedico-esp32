@@ -24,5 +24,6 @@ Procesamiento → Broker MQTT + base de datos
 Visualización → Dashboard con indicadores y alarmas
 
 **Render**
+
 <img width="742" height="406" alt="image" src="https://github.com/user-attachments/assets/267c6e2e-a50d-4474-9c58-2b50474831e0" />
 
