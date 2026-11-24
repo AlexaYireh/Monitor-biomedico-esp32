@@ -28,5 +28,6 @@ Visualización → Dashboard con indicadores y alarmas
 <img width="742" height="406" alt="image" src="https://github.com/user-attachments/assets/267c6e2e-a50d-4474-9c58-2b50474831e0" />
 
 
-
+#Parte 2
+[CIERRE PARTE 2l](./CIERRE_Etapa_2_RETO.pdf)
 
